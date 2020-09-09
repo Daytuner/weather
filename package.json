@@ -1,0 +1,11 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "MY weather project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush raj panda",
+  "license": "ISC"
+}
